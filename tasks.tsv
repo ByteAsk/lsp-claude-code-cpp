@@ -1,0 +1,21 @@
+task	source	repo	base_commit	tiers	in_the_study
+lballabio__QuantLib-2790	post-cutoff	lballabio/QuantLib	ca953b7ebdb4	nav,eo,e2e	solved by both arms in every run
+nlohmann__json-4537	multi-swe-bench	nlohmann/json	e6cafa573aac	nav,eo,e2e	solved by both arms in every run
+nlohmann__json-4525	multi-swe-bench	nlohmann/json	1b9a9d1f2122	nav,eo,e2e	solved by both arms in every run
+nlohmann__json-4512	multi-swe-bench	nlohmann/json	ee32bfc1c263	nav,eo,e2e	solved by both arms in every run
+catchorg__Catch2-2849	multi-swe-bench	catchorg/Catch2	7ce35799767d	nav,eo,e2e	solved by both arms in every run
+catchorg__Catch2-2723	multi-swe-bench	catchorg/Catch2	4acc51828f7f	nav,eo,e2e	solved by both arms in every run
+simdjson__simdjson-2026	multi-swe-bench	simdjson/simdjson	c5c43e9c7ff6	nav,eo,e2e	solved by both arms in every run
+simdjson__simdjson-2016	multi-swe-bench	simdjson/simdjson	74bb7b2533af	nav,eo,e2e	solved by both arms in every run
+libuv__libuv-5291	post-cutoff	libuv/libuv	ec1928832534	nav,eo,e2e	solved by both arms in every run
+jbeder__yaml-cpp-1499	post-cutoff	jbeder/yaml-cpp	8eb618e889c0	nav,eo,e2e	solved by both arms in every run
+fmtlib__fmt-4057	multi-swe-bench	fmtlib/fmt	ccea338070c7	nav,eo,e2e	solved by both arms in every run
+fmtlib__fmt-3248	multi-swe-bench	fmtlib/fmt	275b4b3417e2	nav,eo,e2e	solved by both arms in every run
+nlohmann__json-3663	multi-swe-bench	nlohmann/json	7b6cf5918bc9	nav,eo,e2e	failed by both arms in every run
+catchorg__Catch2-1608	multi-swe-bench	catchorg/Catch2	979bbf03bb00	nav,eo,e2e	failed by both arms in every run
+simdjson__simdjson-559	multi-swe-bench	simdjson/simdjson	032936a7b54f	nav,eo,e2e	failed by both arms in every run
+fmtlib__fmt-4286	multi-swe-bench	fmtlib/fmt	e3ddede6c4ee	nav,eo,e2e	failed by both arms in every run
+nlohmann__json-sem1	overload	nlohmann/json	0e95fe8200ad	nav	same recall in both arms, both runs
+fmtlib__fmt-sem2	overload	fmtlib/fmt	10cda465edf1	nav	same recall in both arms, both runs
+lballabio__QuantLib-sem4	overload	lballabio/QuantLib	966a4cc10104	nav	same recall in both arms, both runs
+yhirose__cpp-httplib-sem3	overload	yhirose/cpp-httplib	0db1df7cf24d	nav	same recall in both arms, both runs
