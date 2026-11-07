@@ -1,7 +1,7 @@
 # lsp-claude-code-cpp
 
 Reproduce the experiments of **Why LSP, Why the LSP Plugin, and Why Claude Code Doesn't Save Tokens**
-(Pratyush Saini, CTO, ByteAsk Research, pratyush@byteask.ai; Anirudha Kulkarni, CEO, ByteAsk, anirudha@byteask.ai;
+(Pratyush Saini, CTO, ByteAsk Research, pratyush@byteask.ai; Anirudh Saini, CEO, ByteAsk Research, anirudha@byteask.ai;
 November 2026): Claude Code with and without Anthropic's clangd LSP plugin on C/C++ issues.
 
 Paper: [byteask.ai/research/lsp-claude-code-cpp](https://byteask.ai/research/lsp-claude-code-cpp)
@@ -126,7 +126,7 @@ tests and grader) and `solution/` (the reference fix).
 ```bibtex
 @misc{saini2026lsp,
   title        = {Why LSP, Why the LSP Plugin, and Why Claude Code Doesn't Save Tokens: Language Servers, Grep, and the Cost of Code Navigation for C/C++ Coding Agents},
-  author       = {Saini, Pratyush and Kulkarni, Anirudha},
+  author       = {Saini, Pratyush and Saini, Anirudh},
   year         = {2026},
   month        = nov,
   institution  = {ByteAsk Research},
